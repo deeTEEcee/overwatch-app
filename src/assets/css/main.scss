@@ -1,0 +1,12 @@
+.hero {
+  height: 40px;
+  width: 40px;
+}
+
+#myTeam img[data-selected="true"] {
+   border: 1px solid rgba(81, 203, 238, 1);
+}
+
+#hero-selection img:hover {
+  border: 1px solid rgba(81, 203, 238, 1);
+}
